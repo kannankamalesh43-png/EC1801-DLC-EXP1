@@ -120,7 +120,7 @@ The Boolean function
 F(A,B,C,D)=Σm(0,2,5,7,8,10,13,15), which simplifies to F=B'D'+BD.
 was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
-<img width="1907" height="1022" alt="Screenshot 2026-11-03 141345" src="https://github.com/user-attachments/assets/92f9595e-39b1-45cf-93fa-ba37b4d12bd2" />
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/f5f9a03c-1d7b-485d-96c6-213eac3781f9" />
 
 
 ## OUTPUT
